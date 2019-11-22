@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeSpeed</string>
+    <string name="speed_time">加速的时间：%1$s</string>
+    <string name="real_time">真实的时间：%1$s</string>
+</resources>
